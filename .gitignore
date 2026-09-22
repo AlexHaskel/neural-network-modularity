@@ -15,7 +15,3 @@ __pycache__
 data/
 
 .claude
-
-# Complete experimental results
-/modularisation_via_noise/results_nonlinear/experiments/
-/modularisation_via_noise/results_nonlinear/experiments.rar
