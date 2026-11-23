@@ -3,9 +3,9 @@
 <div align="center">
 Alex Haskel <sup>1</sup>, Daoyuan Qian <sup>2</sup> and Ila Fiete <sup>2</sup>
 <br><br>
-<sup>1</sup> Department of Computer Science, CUNY Hunter College, NY  
-<sup>2</sup> McGovern Institute for Brain Research, Massachusetts Institute of Technology,  
-<sup>2</sup> K. Lisa Yang Integrative Computational Neuroscience Center in the Yang-Tan Collective, Massachusetts Institute of Technology,  
+<sup>1</sup> Department of Computer Science, CUNY Hunter College, NY<br>  
+<sup>2</sup> McGovern Institute for Brain Research, Massachusetts Institute of Technology,<br>  
+<sup>2</sup> K. Lisa Yang ICoN Center in the Yang-Tan Collective, Massachusetts Institute of Technology,<br>  
 <sup>2</sup>Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology    
 </div>
 
