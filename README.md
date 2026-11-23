@@ -6,7 +6,8 @@ Alex Haskel <sup>1</sup>, Daoyuan Qian <sup>2</sup> and Ila Fiete <sup>2</sup>
 <sup>1</sup> Department of Computer Science, CUNY Hunter College, NY<br>  
 <sup>2</sup> McGovern Institute for Brain Research, Massachusetts Institute of Technology,<br>  
 <sup>2</sup> K. Lisa Yang ICoN Center in the Yang-Tan Collective, Massachusetts Institute of Technology,<br>  
-<sup>2</sup>Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology    
+<sup>2</sup>Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology
+<br><br>
 </div>
 
 Modular tasks can be decomposed into parts, with each sub-problem being dependent on separate properties of the input data, which can vary independently of each other. Neural networks can solve such tasks by internally mixing information about various properties of the input. By contrast, the brain contains circuits that exhibit modular structure and address such tasks by processing information through relatively independent channels. Such modular organization may support learning efficiency and robustness, while reducing catastrophic forgetting.
